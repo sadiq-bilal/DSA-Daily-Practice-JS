@@ -1,4 +1,4 @@
-// Even and Odd co
+// Even and Odd count
 let array = [2, 3, 4, 5, 6, 7, 8, 9, 12, 35, 60];
 let evenCount = 0;
 let oddCount = 0;
