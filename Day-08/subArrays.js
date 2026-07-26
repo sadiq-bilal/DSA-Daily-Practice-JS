@@ -21,6 +21,6 @@ for (let i = 0; i < arr.length; i++){ // i = start
         }
         console.log(subArr);
     }   
-}
+}  
 
 // Time complexity: O(n^3)
