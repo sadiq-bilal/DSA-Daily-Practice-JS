@@ -1,4 +1,4 @@
-# Day 12 - Strings
+# Day 02 - Strings
 
 # Problems Solved
 
