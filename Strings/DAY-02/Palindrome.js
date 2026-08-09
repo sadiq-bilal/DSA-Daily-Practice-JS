@@ -10,7 +10,6 @@ for (let i = 0; i < str.length; i++){
       if (str[i] !== str[j]) {
         result = false;
       } else {
-
         result = true;
       }
       j--;
