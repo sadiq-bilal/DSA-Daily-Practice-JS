@@ -1,4 +1,4 @@
-// Move All Zeros to the End
+// Move All Zeros to  End
 
 
 let arr = [1, 0, 5, 0];
