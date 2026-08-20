@@ -1,4 +1,4 @@
-// Maximum difference in given array
+// Maximum difference in given array  or  Best time to Buy/Sell Stock.
 
 let arr = [5, 2, 7, 9, 1, 6, 3];
 
